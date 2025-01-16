@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IMD_Biblioteca</string>
+    <string name="book_cover">Capa do Livro</string>
+</resources>

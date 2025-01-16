@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cor de fundo padrão -->
+    <color name="colorPrimary">#6200EE</color> <!-- Cor principal (roxa) -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Cor para a barra de status -->
+    <color name="colorAccent">#03DAC5</color> <!-- Cor para destaque -->
+
+    <!-- Cores para fundo e texto -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Cor de fundo branca -->
+    <color name="textColor">#000000</color> <!-- Cor do texto preto -->
+
+    <!-- Cores para botões -->
+    <color name="buttonColor">#6200EE</color> <!-- Cor dos botões -->
+
+    <!-- Cores para mensagens (exemplo: erros e sucesso) -->
+    <color name="errorColor">#B00020</color> <!-- Cor de erro (vermelho) -->
+    <color name="successColor">#388E3C</color> <!-- Cor de sucesso (verde) -->
+
+    <!-- Cores para a tela de login e registros -->
+    <color name="loginBackground">#F5F5F5</color> <!-- Cor de fundo da tela de login -->
+
+    <!-- Cores de texto do login -->
+    <color name="editTextHint">#757575</color> <!-- Cor da dica nos campos de texto -->
+    <color name="editTextText">#212121</color> <!-- Cor do texto inserido -->
+
+    <!-- Cores para o botão de login -->
+    <color name="loginButton">#6200EE</color> <!-- Cor do botão de login -->
+
+</resources>

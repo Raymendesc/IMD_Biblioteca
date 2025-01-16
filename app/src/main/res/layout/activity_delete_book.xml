@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvDeleteBook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Digite o ISBN do livro para excluir"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/etIsbnToDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ISBN"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/btnDeleteBook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Excluir Livro" />
+
+    <TextView
+        android:id="@+id/tvDeleteResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="16sp"
+        android:paddingTop="16dp" />
+</LinearLayout>
